@@ -1,5 +1,8 @@
 # ✉️ AI Email Writer
 
+Link Of My Project 
+https://naveedkhan23-ai-email-assistant-app-myfkkl.streamlit.app/
+
 A conversational email-drafting assistant built with **Streamlit** and the **Groq API**, with live token streaming.
 
 ## Features
